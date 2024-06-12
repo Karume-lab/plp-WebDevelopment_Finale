@@ -1,0 +1,4 @@
+note which data I will display from the response:
+    city.name
+    city.country
+    city.timezone
